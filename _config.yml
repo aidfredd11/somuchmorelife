@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
 title: SoMuchMoreLife
+github:
+  is_project_page: false
