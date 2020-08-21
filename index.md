@@ -10,11 +10,11 @@
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
-    <div class="item active">
-      <img src="photos\beaches.jpg">
-    </div>
     <div class="item">
       <img src="photos\elephantDeaths.jpg">
+    </div>
+    <div class="item active">
+      <img src="photos\beaches.jpg">
     </div>
     <div class="item">
       <img src="photos\elevatedPark.jpg">
