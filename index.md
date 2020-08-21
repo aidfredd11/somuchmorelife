@@ -33,7 +33,7 @@
 
 <br>
 
-## Made possible by ... 
+## Partners
 <div class="row">
   <div class="column">
     <a href="https://www.stthomaschamber.on.ca/">
@@ -55,7 +55,14 @@
         <img src="photos\sponsors\EDC logo.jpg" alt="EDC" style="width:100%">
     </a>
   </div>
+   <div class="column">
+    <a href="https://www.twentyfivepercentmorelife.com/">
+      <img src="photos\sponsors\Home Builders.jpg" alt="Home Builders Association" style="width:100%">
+    </a>
+  </div>
 </div>
+
+## Sponsors
 
 <div class="row">
   <div class="column">
@@ -76,6 +83,11 @@
   <div class="column">
     <a href="https://www.twentyfivepercentmorelife.com/">
       <img src="photos\sponsors\Home Builders.jpg" alt="Home Builders Association" style="width:100%">
+    </a>
+  </div>
+   <div class="column">
+    <a href="https://www.st-thomas.org/">
+        <img src="photos\sponsors\EDC logo.jpg" alt="EDC" style="width:100%">
     </a>
   </div>
 </div>
