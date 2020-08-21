@@ -2,3 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+
+@font-face {
+   font-family: "ChaparralProSemiBold";
+   src: url("fonts/CHAPARRALPRO-SEMIBOLD.OTF") format("opentype");
+} 
+@font-face {
+	font-family: "Typodermic";
+  	src: url("fonts/TYPODERMIC - BIONDISANSRG-REGULAR.OTF") format("opentype");
+}
+@font-face {
+	font-family: "DidactGothic";
+  	src: url("https://fonts.googleapis.com/css?family=Didact+Gothic") format("opentype");
+}
