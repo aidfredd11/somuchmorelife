@@ -11,16 +11,16 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="photos\beaches.jpg" alt="Los Angeles">
+      <img src="photos\beaches.jpg">
     </div>
     <div class="item">
-      <img src="photos\elephantDeaths.jpg" alt="New York">
+      <img src="photos\elephantDeaths.jpg">
     </div>
     <div class="item">
-      <img src="photos\elevatedPark.jpg" alt="New York">
+      <img src="photos\elevatedPark.jpg">
     </div>
     <div class="item">
-      <img src="photos\pickleball.jpg" alt="New York">
+      <img src="photos\pickleball.jpg">
     </div>
   </div>
 
