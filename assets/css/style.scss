@@ -14,7 +14,7 @@
 
 /* Hide the images by default */
 .mySlides {
-  display: inline-block;
+  display: block;
 }
 
 /* Next & previous buttons */
@@ -77,3 +77,4 @@
   from {opacity: .4}
   to {opacity: 1}
 }
+
