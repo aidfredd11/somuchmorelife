@@ -5,7 +5,6 @@
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
     <li data-target="#myCarousel" data-slide-to="2"></li>
-    <li data-target="#myCarousel" data-slide-to="3"></li>
   </ol>
 
   <!-- Wrapper for slides -->
@@ -18,9 +17,6 @@
     </div>
     <div class="item">
       <img src="photos\elevatedPark.jpg">
-    </div>
-    <div class="item">
-      <img src="photos\pickleball.jpg">
     </div>
   </div>
 
@@ -44,9 +40,9 @@
         <img src="photos\sponsors\Chamber.jpg" alt="Chamber" style="width:100%">
     </a>
   </div>
-  <div class="column">
-    <a href="https://www.dougtarryhomes.com/">
-        <img src="photos\sponsors\Doug Tarry.jpg" alt="Doug Tarry" style="width:100%">
+    <div class="column">
+    <a href="https://www.elgincounty.ca/">
+      <img src="photos\sponsors\Elgin County.jpg" alt="County" style="width:100%">
     </a>
   </div>
   <div class="column">
@@ -63,8 +59,8 @@
 
 <div class="row">
   <div class="column">
-    <a href="https://www.elgincounty.ca/">
-      <img src="photos\sponsors\Elgin County.jpg" alt="County" style="width:100%">
+    <a href="https://www.dougtarryhomes.com/">
+        <img src="photos\sponsors\Doug Tarry.jpg" alt="Doug Tarry" style="width:100%">
     </a>
   </div>
   <div class="column">

@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 title: So Much More Life
 description: in St. Thomas, Ontario
+google_analytics: UA-171712232-2
 github:
   is_project_page: true
   is_project_page: false
