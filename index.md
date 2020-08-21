@@ -1,7 +1,40 @@
-# #SoMuchMoreLife
+<!-- Slideshow container -->
+<div class="slideshow-container">
 
-<img src="photos/Billboard - No elephant deaths.jpg" width="366" height="240" alt="No Elephant Deaths in 135 Years"/>
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 3</div>
+    <img src="photos\beaches.jpg" style="width:100%">
+    <div class="text">Caption Text</div>
+  </div>
 
-<img src="photos/billboard - tractor jams.png" width="366" height="240" alt="Total gridlock in the Elgin County: Tractor Jams"/>
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 3</div>
+    <img src="photos\elephantDeaths.jpg" style="width:100%">
+    <div class="text">Caption Two</div>
+  </div>
 
-<img src="photos/SoMuchMoreLife - Elevated Park.jpg" width="366" height="240" alt="Lift Your Spirits on Canada's first Elevated Park"/>
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 3</div>
+    <img src="photos\pickleball.jpg" style="width:100%">
+    <div class="text">Caption Three</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 3</div>
+    <img src="photos\elevatedPark.jpg" style="width:100%">
+    <div class="text">Caption Three</div>
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+</div>
