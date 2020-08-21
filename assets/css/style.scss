@@ -12,6 +12,11 @@
   margin: auto;
 }
 
+/* Hide the images by default */
+.mySlides {
+  display: flex;
+}
+
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
