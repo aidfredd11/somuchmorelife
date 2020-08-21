@@ -46,6 +46,11 @@
     </a>
   </div>
   <div class="column">
+    <a href="https://www.twentyfivepercentmorelife.com/">
+      <img src="photos\sponsors\Home Builders.jpg" alt="Home Builders Association" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
     <a href="http://downtownstthomas.ca/">
         <img src="photos\sponsors\DtDB.png" alt="Downtown Dev Board" style="width:100%">
     </a>
@@ -53,11 +58,6 @@
   <div class="column">
     <a href="https://www.st-thomas.org/">
         <img src="photos\sponsors\EDC logo.jpg" alt="EDC" style="width:100%">
-    </a>
-  </div>
-   <div class="column">
-    <a href="https://www.twentyfivepercentmorelife.com/">
-      <img src="photos\sponsors\Home Builders.jpg" alt="Home Builders Association" style="width:100%">
     </a>
   </div>
 </div>
@@ -75,14 +75,14 @@
       <img src="photos\sponsors\Gorman Rupp.jpg" alt="Gorman Rupp" style="width:100%">
     </a>
   </div>
-  <div class="column">
-    <a href="https://kennyins.com/">
-      <img src="photos\sponsors\Kenny Insurance.jpg" alt="Kenny Insurance" style="width:100%">
+   <div class="column">
+    <a href="https://www.twentyfivepercentmorelife.com/">
+      <img src="photos\sponsors\Home Builders.jpg" alt="Home Builders Association" style="width:100%">
     </a>
   </div>
   <div class="column">
-    <a href="https://www.twentyfivepercentmorelife.com/">
-      <img src="photos\sponsors\Home Builders.jpg" alt="Home Builders Association" style="width:100%">
+    <a href="https://kennyins.com/">
+      <img src="photos\sponsors\Kenny Insurance.jpg" alt="Kenny Insurance" style="width:100%">
     </a>
   </div>
    <div class="column">
