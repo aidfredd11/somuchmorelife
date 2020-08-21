@@ -33,7 +33,7 @@
 
 <br>
 
-## Partners
+## Partnered with ...
 <div class="row">
   <div class="column">
     <a href="https://www.stthomaschamber.on.ca/">
@@ -62,7 +62,7 @@
   </div>
 </div>
 
-## Sponsors
+## Sponsored by ... 
 
 <div class="row">
   <div class="column">
