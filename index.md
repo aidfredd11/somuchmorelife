@@ -27,30 +27,47 @@
 ## Made possible by ... 
 <div class="row">
   <div class="column">
-    <img src="photos\sponsors\Chamber.png" alt="Chamber" style="width:100%">
+    <a href="https://www.stthomaschamber.on.ca/">
+        <img src="photos\sponsors\Chamber.jpg" alt="Chamber" style="width:100%">
+    </a>
   </div>
   <div class="column">
-    <img src="photos\sponsors\Doug Tarry.jpg" alt="Doug Tarry" style="width:100%">
+    <a href="https://www.dougtarryhomes.com/">
+        <img src="photos\sponsors\Doug Tarry.jpg" alt="Doug Tarry" style="width:100%">
+    </a>
   </div>
   <div class="column">
-    <img src="photos\sponsors\DtDB.png" alt="Downtown Dev Board" style="width:100%">
+    <a href="http://downtownstthomas.ca/">
+        <img src="photos\sponsors\DtDB.png" alt="Downtown Dev Board" style="width:100%">
+    </a>
   </div>
   <div class="column">
-    <img src="photos\sponsors\EDC logo.jpg" alt="EDC" style="width:100%">
+    <a href="https://www.st-thomas.org/">
+        <img src="photos\sponsors\EDC logo.jpg" alt="EDC" style="width:100%">
+    </a>
   </div>
 </div>
 
 <div class="row">
-     <div class="column">
-    <img src="photos\sponsors\Elgin County.jpg" alt="County" style="width:100%">
+  <div class="column">
+    <a href="https://www.elgincounty.ca/">
+      <img src="photos\sponsors\Elgin County.jpg" alt="County" style="width:100%">
+    </a>
   </div>
   <div class="column">
-    <img src="photos\sponsors\Gorman Rupp.jpg" alt="Gorman Rupp" style="width:100%">
+    <a href="https://www.grpumps.com/about?region=Canada">
+      <img src="photos\sponsors\Gorman Rupp.jpg" alt="Gorman Rupp" style="width:100%">
+    </a>
   </div>
   <div class="column">
-    <img src="photos\sponsors\Home Builders.png" alt="Home Builders Association" style="width:100%">
+    <a href="https://kennyins.com/">
+      <img src="photos\sponsors\Kenny Insurance.jpg" alt="Kenny Insurance" style="width:100%">
+    </a>
   </div>
   <div class="column">
-    <img src="photos\sponsors\Kenny Insurance.png" alt="Kenny Insurance" style="width:100%">
+    <a href="https://www.twentyfivepercentmorelife.com/">
+      <img src="photos\sponsors\Home Builders.jpg" alt="Home Builders Association" style="width:100%">
+    </a>
   </div>
 </div>
+
